@@ -21,4 +21,4 @@ There are 10 classes to detect from the dataset:
 
 ## Results
 
-![Alt text](output/output_yolov8n_100e/two-young-construction-workers-wearing-555864.jpg)
+![Alt text](output/two-young-construction-workers-wearing-555864.jpg)
