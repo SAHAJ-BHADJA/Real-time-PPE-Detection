@@ -18,7 +18,4 @@ The dataset consists of 2801 image samples with labels in YoloV8 format.
 There are 10 classes to detect from the dataset: 
 **'Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle'**
 
-
-## Results
-
-![Alt text](output/two-young-construction-workers-wearing-555864.jpg)
+(output/two-young-construction-workers-wearing-555864.jpg)
